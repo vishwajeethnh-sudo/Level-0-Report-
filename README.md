@@ -20,4 +20,5 @@ Infill Density 20%
 Also Created a 3D model by my own and saved it in .stl format to further print it. 
 ### LEARNING 
 Understood Basic terms of a 3d Printer. Designed a model for 3D printing and gained knowledge on how to execute the model to print. And also got to see different types of 3D printers in the Lab.
+- - - - 
 
