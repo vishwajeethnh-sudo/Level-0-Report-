@@ -8,3 +8,4 @@ The circuit consisting of 555 timer IC, 2 resistors, capacitor, breadboard, jump
 
 ## Learning
 Understood the working principle of 555 timer in astable mode, learned how resistor and capacitor values affect frequency and duty cycle, gained hands-on experience with breadboard circuit assembly, learned correct usage of DSO probes and waveform measurement, understood practical deviations between theoretical and measured values due to component tolerances.
+![](https://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/555%20Astable.jpg)
