@@ -8,3 +8,4 @@ After this I began with inserting the image to the code. Then I gave dimensions 
 ## Learning 
 This task helped me gain knowledge on what is **NumPy** and **MATLAB**. Worked with it to gain experience. And also learnt about the commands of coding with python. 
 ![](https://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/NumPy.png)
+Link to my Colab Notes: [https://colab.research.google.com/drive/1yRQekyFDzP_VMngoGtwNke5AvXM7Mu4_](https://colab.research.google.com/drive/1yRQekyFDzP_VMngoGtwNke5AvXM7Mu4_)
