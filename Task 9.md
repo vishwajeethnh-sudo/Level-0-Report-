@@ -7,3 +7,5 @@ Made an account on the TinkerCad website to create and explore circuits. Ultraso
 Started up with building a Radar System using ultrasonic sensor, servo motor and jumper wires to connect them to serial monitor to showcase the distance. Used the referance link to make connections and simulate. Connected all of them in such a manner that ultrasonic sensor can detect the object and distance can be calculated. 
 ## Learning 
 I learnt what a tinkercad is and what are its applications. Got a hands on experience of using the application. Made a simple circuit to detect an object which helped me to understand it better.
+
+![](https://youtu.be/FaxPd3D9Gb0)
