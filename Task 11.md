@@ -9,3 +9,4 @@ ESP32 is a low-cost, low-power microcontroller with built in WiFi, Bluetooth and
 To start with go to Arduino IDE and configure it for ESP32. Make the connections using ESP32 and LEDs and Jumperwire. Write a code to insert it into ESP32 so that it can act as a wifi staion and provide switch On/OFF buutons. Upload this code to ESP32 using USB cable and slect the right COM port and run it. Copy the webpage address to control switching ON/Off.
 ## Learning 
 This task helped in understanding ESP32 architecture and capabilities, WiFi based communication, GPIO control via web interface, Configuring Arduino IDE for new boards.
+[LED Toggling using ESP32](https://www.youtube.com/watch?v=8RtDRS8vjbg)
