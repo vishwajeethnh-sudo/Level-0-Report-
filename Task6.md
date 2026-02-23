@@ -7,3 +7,4 @@ Dowloaded the Given image and Opened Google Colab. Before that understood what i
 After this I began with inserting the image to the code. Then I gave dimensions for it to determine the size. After this I reshaped the matrix. Then to get a correct image, made modifications and Ran the code. At last Visualized it by using Matplotlib and the correct image was found to be a smiley face. 
 ## Learning 
 This task helped me gain knowledge on what is **NumPy** and **MATLAB**. Worked with it to gain experience. And also learnt about the commands of coding with python. 
+![](https://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/NumPy.png)
