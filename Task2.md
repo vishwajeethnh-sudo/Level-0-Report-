@@ -8,3 +8,4 @@ To execute this in a different problem I made a Weahter API to showcase weather 
 ## Learning
 This task helped me understand what API is and how it makes the use of apps seamless. This task also helped me with basics of HTML and Javascript. Helped me get familiar with Visual Studio Code. 
 
+![](https://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/API%20.png)
