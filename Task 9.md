@@ -8,4 +8,4 @@ Started up with building a Radar System using ultrasonic sensor, servo motor and
 ## Learning 
 I learnt what a tinkercad is and what are its applications. Got a hands on experience of using the application. Made a simple circuit to detect an object which helped me to understand it better.
 
-![](https://youtu.be/FaxPd3D9Gb0)
+![Ultrasonic sensor using TinkerCAD](https://youtu.be/FaxPd3D9Gb0)
