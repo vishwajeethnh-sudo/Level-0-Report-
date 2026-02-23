@@ -11,3 +11,5 @@ After that trained the model using scikit learn. Evaluated the model, visualized
 
 ## Learning
 Understanding Optimization, importance of Feature Scaling, Learning Rate Sensitivity, Model Evaluation and got a practical insight of how machine learning impacts.
+
+Link to My Colab Notes: [https://colab.research.google.com/drive/1WzaMn140bw3mq8V7uJ7mRTqHYHXQ5a4W](https://colab.research.google.com/drive/1WzaMn140bw3mq8V7uJ7mRTqHYHXQ5a4W)
