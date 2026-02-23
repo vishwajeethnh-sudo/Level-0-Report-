@@ -28,3 +28,4 @@ Ideal Tip Temperature	&nbsp; &nbsp; 320–350°C	|&nbsp; &nbsp; &nbsp; &nbsp; &n
 
 ## Learning
 Understood the purpose and safe handling of soldering equipment, learned correct soldering technique (heat joint first, then apply solder), identified good vs. poor solder joints, gained hands-on experience assembling LEDs on a perf board,developed confidence in performing basic electronic hardware assembly.
+![](https://github.com/vishwajeethnh-sudo/Level-0-Pictures/blob/main/Soldering%201.jpg)
