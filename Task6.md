@@ -1,4 +1,4 @@
-#Task 6: Matrix Puzzle
+# Task 6: Matrix Puzzle
 ## Objective:
 To get hands on experience with **NumPy** and **Matlab**. Using these solve a matrix puzzle and decode it to reveal the image.
 ## Procedure:
