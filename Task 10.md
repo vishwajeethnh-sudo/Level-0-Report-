@@ -10,3 +10,4 @@ All of these are connected in tinkercad to run the simulation an =d check for re
 
 ## Learning
 Through this task, the following concepts were understood Working principle of DC motors, PWM-based speed control, L298N motor driver operation, Interfacing motors with microcontrollers, Importance of external power supply, Simulation before hardware implementation.
+[Speed Control of DC motor](https://youtu.be/2K4p-8iUZoQ)
